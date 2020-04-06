@@ -2,7 +2,9 @@
 >                                 Regressions single 
 > *******************************************************************************/
 . 
-. 
+
+. this is just playing around 
+
 . * Interaction term formulation 
 . local y ln_wiesp i.se##i.female alder alder2 utd_vgs utd_b utd_m 
 
